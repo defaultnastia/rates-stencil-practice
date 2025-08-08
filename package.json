@@ -1,0 +1,8 @@
+{
+  "name": "rates-stencil-practice",
+  "private": true,
+  "workspaces": [
+    "packages/ui-library",
+    "apps/react-app/rates-table"
+  ]
+}
